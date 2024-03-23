@@ -1,3 +1,4 @@
 こんにちは
 
-このホームページのソースコードは[こちら](https://o391nmb8.github.io/SamplePages/)
+このホームページのソースコードは[こちら](https://github.com/o391nmb8/SamplePages/)
+![猫の画像](./cat.jpg)
